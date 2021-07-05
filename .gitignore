@@ -259,5 +259,7 @@ cython_debug/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
+# Sensitive or high-churn files
+.idea/**
+literatur.txt
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,virtualenv
